@@ -1,0 +1,10 @@
+2 49999.99 Road Charger
+3 39999.99 Family Car
+4 24999.99 Big Hauler
+1 9999.99 Classic Ride
+2 199999.99 Speedster
+3 24999.99 Squad Ride
+4 19999.99 All-Terrainer
+1 4999.99 Eco-Ride
+1 3999.99 Hybrid Ride
+2 149999.99 Bullet Car
