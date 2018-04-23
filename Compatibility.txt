@@ -1,0 +1,11 @@
+This file indicates which environment(s) each robot can run properly in.
+You will require both the robot file and its environment file in order
+to see it run correctly.
+
+"CleanerRobot.java" runs in "CleaningEnvironment.java" & "RandomCleaningEnvironment.java"
+"EscapeRobot.java" runs in "MazeBuilder.java"
+"OlympicRunner.java" runs in "RaceEnvironment.java"
+"RobotGrapher.java" runs in "GraphCanvasEnvironment.java"
+"SpiralBot.java" runs in "SpiralCanvasEnvironment.java"
+"TunnelClearer.java" runs in "TunnelEnvironment.java"
+"UpgradedRobot.java" runs in "UpgradedRobotTrialRun.java"
